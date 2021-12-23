@@ -197,7 +197,6 @@
 /* Feynman */
 
 .feynman {
-  border: red dotted 1px;
   position: relative;
   min-height: 637px;
   margin: 100px auto 0 auto;
@@ -213,7 +212,6 @@
 }
 
 .feynman__title {
-  border: red dotted 1px;
   padding: 0;
   margin: 0;
   line-height: 1.15;
@@ -224,7 +222,6 @@
 }
 
 .feynman__subtitle {
-  border: red dotted 1px;
   margin: 70px auto 0 auto;
   line-height: 51px;
   font-size: 36px;
@@ -233,7 +230,6 @@
 }
 
 .feynman__link {
-  border: red dotted 1px;
   position: absolute;
   top: 50%;
   right: 48px;
